@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gulshan</h1>
 <h3 align="center">A passionate software developer living in Canada. Although I am interested in everything related to software development, I have only worked on projects related to Deep Learning, Machine Learning and AI. Currently, I am focusing on Web Development with React.</h3>
 
-- 🔭 I’m currently working on **Predictive modelling tool to more effectively transition patients from hospital with St. Joseph's Healthcare Hamilton**
-
 - 🌱 I’m currently learning **React and Web3**
 
 - 📄 Know about my experiences [https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf](https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf)
