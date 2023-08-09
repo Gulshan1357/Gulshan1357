@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gulshan</h1>
-<h3 align="center">A passionate software developer living in Canada. Although I am interested in everything related to software development, I have only worked on projects related to Deep Learning, Machine Learning and AI. Currently, I am focusing on Web Development with React.</h3>
+<h3 align="center">A passionate software developer with a focus on Front-End Development with a Master's degree in the field of UX Design. My main area of expertise is Web development React. I am also proficient in developing user interfaces (UI) for eXtended Reality (XR) applications, catering to platforms like Virtual Reality (VR), Mixed Reality (MR) headsets, and mobile apps using Unity.
 
-- 🌱 I’m currently learning **React, Sass and TypeScript**
+- 🌱 I’m currently learning **Sass and TypeScript**
 
 - 📄 Know about my experiences [https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf](https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf)
 
