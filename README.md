@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gulshan</h1>
-<h3 align="center">A passionate software developer with a focus on Front-End Development with a Master's degree in the field of UX Design. My main area of expertise is Web development React. I am also proficient in developing user interfaces (UI) for eXtended Reality (XR) applications, catering to platforms like Virtual Reality (VR), Mixed Reality (MR) headsets, and mobile apps using Unity and unreal. </h3>
+<h3 align="center">A passionate software developer with a Master's degree in the field of UX Design. My area of expertise include Unity, Unreal Engine and Full-Stack Programming using React and NextJS. I am also proficient in developing software apps for eXtended Reality (XR) or you can say Spatial Computing, catering to platforms like Virtual Reality (VR) and Mixed Reality (MR) headsets. </h3>
 
-- 🌱 I’m currently learning **Sass and TypeScript**
+- 🌱 I’m currently learning **WebGPU in Unity and Metahuman Animations in Unreal**
 
-- 📄 Know about my experiences [https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf](https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf)
+- 📄 Know about my experiences [https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Sankhyan%20resume.pdf](https://github.com/Gulshan1357/Gulshan1357/blob/main/Gulshan%20Resume%20Full.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
